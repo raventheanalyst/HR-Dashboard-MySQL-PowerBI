@@ -54,3 +54,33 @@ p {font-family:Georgia, serif;font-size:16px;font-style:normal;font-weight:norma
 <p>11. What is the tenure distribution for each department? </p>
 </body>
 </html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<!-- HTML Codes by Quackit.com -->
+<title>
+</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {background-color:#ffffff;background-repeat:no-repeat;background-position:top left;background-attachment:fixed;}
+h1{font-family:Arial, sans-serif;color:#000000;background-color:#ffffff;}
+p {font-family:Georgia, serif;font-size:16px;font-style:normal;font-weight:normal;color:#000000;background-color:#ffffff;}
+</style>
+</head>
+<body>
+<h1>Summary of Findings</h1>
+<p>• There are more male employees.</p>
+<p>•The white race exhibits the highest prevalence, while the American Indian/Alaskan Native and Native Hawaiian/Other Pacific Islander races display the least prevalence. </p>
+<p>•The youngest employee was 18 and the oldest employee is 57.</p>
+<p>• There are 17482 employees total. </p>
+<p>• 5 age groups were created. A large number of employees were between 25-34 followed by 35-44 while the smallest group was 55-64.</p>
+<p>•  More employees work at headquarters than remotely. </p>
+<p>• The average length of employment for terminated employees is 8 years.</p>
+<p>• The gender distribution among department is fairly balanced but there are more male than female employees. </p>
+<p>• The Marketing department has the highest turnover rate followed by Training. The least turnover rate are in the Reseach and Development, Support and legal departments. </p>
+<p>• Most employees come from the state of Ohio.</p>
+<p>• The net change in employees has increased over the years.</p>
+<p>• The average tenure for each department is about 8 years with Legal and Auditing having the highest and Service, Sales, and Marketing having the lowest. </p>
+</body>
+</html>
