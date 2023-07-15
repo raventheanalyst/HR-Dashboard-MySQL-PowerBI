@@ -71,8 +71,8 @@ p {font-family:Georgia, serif;font-size:16px;font-style:normal;font-weight:norma
 <body>
 <h1>Summary of Findings</h1>
 <p>• There are more male employees.</p>
-<p>•The white race exhibits the highest prevalence, while the American Indian/Alaskan Native and Native Hawaiian/Other Pacific Islander races display the least prevalence. </p>
-<p>•The youngest employee was 18 and the oldest employee is 57.</p>
+<p>• The white race exhibits the highest prevalence, while the American Indian/Alaskan Native and Native Hawaiian/Other Pacific Islander races display the least prevalence. </p>
+<p>• The youngest employee was 18 and the oldest employee is 57.</p>
 <p>• There are 17482 employees total. </p>
 <p>• 5 age groups were created. A large number of employees were between 25-34 followed by 35-44 while the smallest group was 55-64.</p>
 <p>•  More employees work at headquarters than remotely. </p>
@@ -82,5 +82,20 @@ p {font-family:Georgia, serif;font-size:16px;font-style:normal;font-weight:norma
 <p>• Most employees come from the state of Ohio.</p>
 <p>• The net change in employees has increased over the years.</p>
 <p>• The average tenure for each department is about 8 years with Legal and Auditing having the highest and Service, Sales, and Marketing having the lowest. </p>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<!-- HTML Codes by Quackit.com -->
+<title>
+</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<h1>Limitations</h1>
+<p>• Some records had negative ages, and these were excluded during querying (967 records). Ages used were 18 years and older.</p>
+<p>• Some termdates were far into the future and were not included in the analysis (1599 records). The only term dates used were those less than or equal to the current date. </p>
 </body>
 </html>
