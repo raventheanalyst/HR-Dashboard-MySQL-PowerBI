@@ -76,3 +76,15 @@
 <p>• Some termdates were far into the future and were not included in the analysis (1599 records). The only term dates used were those less than or equal to the current date. </p>
 </body>
 </html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<!-- HTML Codes by Quackit.com -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<h1>Limitations</h1>
+<p>Based on the dataset, it seems that updates for the data were discontinued at the beginning of Quarter 3, 2005. </p>
+</body>
+</html>
